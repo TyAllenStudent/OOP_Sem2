@@ -1,14 +1,21 @@
 ﻿using NUnit.Framework;
 
-namespace CustomerOrderService.Tests
+namespace Unit_Testing.Tests
+
 {
     [TestFixture]
-    public class Class1
+    public class Test
     {
-        [Test]
-        public void Test1()
+        [TestCase]
+        public void Whatever()
         {
-            Assert.That(1 == 1);
+            
         }
+
+        
+
+
     }
+
+
 }

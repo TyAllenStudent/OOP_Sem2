@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOChallengeWeek4", "OOChallengeWeek4\OOChallengeWeek4.csproj", "{07E916FF-0B0E-42AF-A533-3B9BEB53F327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOChallengeWeek4.Tests", "Shapes.Tests\OOChallengeWeek4.Tests.csproj", "{C262A1E8-43DD-49B1-884F-3C6EA3731327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E916FF-0B0E-42AF-A533-3B9BEB53F327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E916FF-0B0E-42AF-A533-3B9BEB53F327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E916FF-0B0E-42AF-A533-3B9BEB53F327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E916FF-0B0E-42AF-A533-3B9BEB53F327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C262A1E8-43DD-49B1-884F-3C6EA3731327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C262A1E8-43DD-49B1-884F-3C6EA3731327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C262A1E8-43DD-49B1-884F-3C6EA3731327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C262A1E8-43DD-49B1-884F-3C6EA3731327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {966989B5-8595-4BC7-A381-081CAE4F3DCB}
+	EndGlobalSection
+EndGlobal
